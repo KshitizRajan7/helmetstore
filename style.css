@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    min-height: 100vh;
+}
+.sticky-footer{
+    position:sticky;
+    top:100%;
+}
+.logo{
+    position: absolute;
+    width: 4%;
+    height: 4%;
+}
+
+.container{
+    width: 100%;
+}
+
+.card_admin{
+    border:0;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
